@@ -2,7 +2,7 @@
 
 # Hi there, I'm Yanir! 👋
 
-<img src="https://raw.githubusercontent.com/YanirValdman/YanirValdman/main/image_0.png" align="center" width="180" alt="MishMash FTC 12016 Logo" />
+<img src="lomgo.png" align="center" width="180" alt="MishMash FTC 12016 Logo" />
 
 <br>
 
