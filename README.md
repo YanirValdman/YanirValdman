@@ -19,41 +19,34 @@ A developer and robotics enthusiast focused on building interactive applications
 
 </div>
 
-## 🤖 Robotics
+## 🤖 Robotics & Engineering
+I am an active team member at **[MishMash FTC 12016](https://www.facebook.com/MishMashFTC/)**.
 
-I am an active team member at **[MishMash FTC 12016](https://www.facebook.com/MishMashFTC/)**. My contributions are focused on:
+## 🛠️ Tech Stack
 
-* 🤖 Coding
-* ⚙️ FIRST Tech Challenge 
-
-## 💻 Tech Stack & Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Tools-Swing-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="Swing" />
-  <img src="https://img.shields.io/badge/Framework-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### 🛠️ Key Interests
-Game Modding • Robotics Programming • Interactive Applications
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Swing](https://img.shields.io/badge/-Swing-FF0000?style=flat-square&logo=java&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Development** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) |
 
 ## 🚀 Projects
 
-* **AniNeko:** An open-source Java desktop application featuring animated characters that interact with your workspace.
-* **Game Design:** Experimenting with engine internals and asset management for classic shooters.
+### 🖥️ Desktop & Tools
+* **[AniNeko](https://github.com/YanirValdman/AniNeko)** ![Java](https://img.shields.io/badge/-Java-orange) 
+  * Open-source desktop cat characters that interact with your workspace.
+* **[FemboyVC](https://github.com/YanirValdman/FemboyVC)** ![Node.js](https://img.shields.io/badge/-Node.js-green)
+  * Cute Voip (˶˃ ᵕ ˂˶) .
 
-## 📊 GitHub Stats
+### 🎮 Minecraft & Game Modding
+* **[CountingDeaths](https://github.com/YanirValdman/CountingDeaths)** ![Spigot](https://img.shields.io/badge/-Spigot-yellow)
+  * Utility plugin to track mortality stats.
+* **[StepSis](https://github.com/YanirValdman/StepSis)** ![Spigot](https://img.shields.io/badge/-Spigot-yellow)
+  * Shulker in a Shulker.
+* **Retro Modding( will be added later on (>ᴗ•) )** ![GZDoom](https://img.shields.io/badge/-GZDoom-red)
+  * Sprite replacement and asset management for Doom 2.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanirValdman&show_icons=true&theme=radical" alt="Yanir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanirValdman&layout=compact&theme=radical" alt="Yanir's Top Langs" />
-</p>
+---
 
 <div align="center">
 
