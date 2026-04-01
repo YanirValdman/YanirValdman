@@ -20,7 +20,7 @@ A developer and robotics enthusiast focused on building interactive applications
 </div>
 
 ## 🤖 Robotics & Engineering
-I am an active team member at **[MishMash FTC 12016](https://www.instagram.com/mishmash_12016)**.
+I am an active team member at **[MishMash FTC 12016](https://github.com/MishMash-12016)**.
 
 ## 🛠️ Tech Stack
 
