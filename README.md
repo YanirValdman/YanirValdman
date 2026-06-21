@@ -30,25 +30,6 @@ I am an active team member at **[MishMash FTC 12016](https://github.com/MishMash
 | **Frameworks** | ![Swing](https://img.shields.io/badge/-Swing-FF0000?style=flat-square&logo=java&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 | **Development** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-## 🚀 Projects
-
-### 🖥️ Desktop & Tools
-* **[AniNeko](https://github.com/YanirValdman/AniNeko)** ![Java](https://img.shields.io/badge/-Java-orange) 
-  * Open-source desktop cat characters that interact with your workspace.
-* **[FemboyVC](https://github.com/YanirValdman/FemboyVC)** ![Node.js](https://img.shields.io/badge/-Node.js-green)
-  * Cute Voip (˶˃ ᵕ ˂˶) .
-
-### 🎮 Minecraft & Game Modding
-* **[CountingDeaths](https://github.com/YanirValdman/CountingDeaths)** ![Spigot](https://img.shields.io/badge/-Spigot-yellow)
-  * Utility plugin to track mortality stats.
-* **[StepSis](https://github.com/YanirValdman/StepSis)** ![Spigot](https://img.shields.io/badge/-Spigot-yellow)
-  * Shulker in a Shulker.
-* **Retro Modding( will be added later on (>ᴗ•) )** ![GZDoom](https://img.shields.io/badge/-GZDoom-red)
-  * Sprite replacement and asset management for Doom 2.
-
----
-
-<div align="center">
 
 > "Hard work beats talent when talent doesn't work hard."
 
